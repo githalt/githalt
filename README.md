@@ -24,7 +24,7 @@
 
 ---
 ### 🐱My Github stats:
-![githalt's github stats](https://github-readme-stats.vercel.app/api?username=githalt&count_private=true&show_icons=true&title_color=ff59ee&icon_color=8ac926&text_color=b118c9&bg_color=151515&hide=["stars"])
+![githalt's github stats](https://github-readme-stats.vercel.app/api?username=githalt&count_private=true&show_icons=true&title_color=ff59ee&icon_color=b118c9&text_color=a0a0a0&bg_color=151515&hide=["stars"])
 
 ---
 ### 📚 Recent Projects:
