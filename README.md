@@ -8,7 +8,6 @@
 
 ---
 ### 🤓 I work with these softwards currently:
-<p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> 
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
@@ -24,7 +23,7 @@
 
 ---
 ### 🐱My Github stats:
-![githalt's github stats](https://github-readme-stats.vercel.app/api?username=githalt&count_private=true&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![githalt's github stats](https://github-readme-stats.vercel.app/api?username=githalt&count_private=true&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=9e2189&hide=["stars"])
 
 ---
 ### 📚 Recent Projects:
