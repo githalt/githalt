@@ -1,4 +1,10 @@
 ### Hi there, im githalt! 👋
+### 🤵 About Me:
+### 🏦 Im a computing student who specializes in hardware and software.
+### 🤔 I am fluent in using the Java & Kotlin Language.
+### 💬 Feel free to contact me on any of my social platforms!
+### 🤓 Software I can use:
+java mongodb GIT MAVEN
 ### DM me for businnes or others in
 ### Telegram, Discord or Twitter
 ### @githalt & githalt#0517
