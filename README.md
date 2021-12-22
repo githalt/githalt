@@ -29,5 +29,5 @@
 - ⚔ CreedMC Network - A Minecraft PvP Network based on PvP (creedmc.rip)
 
 ---
-### 📚 Actually Projects:
+### 🥂 Actually Projects:
 - ☕ Coral Services - A development team founded for the community (coral.services)
