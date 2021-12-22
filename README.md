@@ -7,7 +7,7 @@
 - 💵 I have a lot of vouchers about my last customers
 
 ---
-### 🤓 Software I can use:
+### 🤓 I work with these softwards currently:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> 
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/> 
