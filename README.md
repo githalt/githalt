@@ -10,10 +10,10 @@
 ### 🤓 I work with these softwards currently:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="45" height="45"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/640px-Kotlin_Icon.png" alt="KOTLIN" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MONGODB" width="45" height="45"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/640px-Kotlin_Icon.png" alt="KOTLIN" width="45" height="45"/>
 </p>
 
 ---
