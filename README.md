@@ -1,5 +1,6 @@
 # Hi there, I'm githalt! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### 🤵 About Me:
+- 🌜 I'm 16 and i always want to give the best service to my customers
 - 🏦 I'm a computing student who specializes in hardware and software.
 - 🤔 I am fluent in using the ```Java``` & ```Kotlin``` Language.
 - 💬 Feel free to contact me on any of my social platforms!
