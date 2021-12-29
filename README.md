@@ -24,15 +24,14 @@
 - 🏷️ Repository: working in a new one
 
 ---
-### 🐱My Github stats:
+### 🐱My Github Statistics:
 ![githalt's github stats](https://github-readme-stats.vercel.app/api?username=githalt&count_private=true&show_icons=true&title_color=b118c9&icon_color=ff59ee&text_color=a0a0a0&bg_color=151515&hide=["stars"])
 
 ---
-### 📚 Recent Projects:
-- ⚔ NativeMC Network - A Minecraft PvP Network based on PvP Community (nativemc.org)
+### 📚 Recently worked projects:
 - ⚔ Asteroid Network - A Minecraft PvP Network based on HCF (asteroid.rip)
 - ⚔ CreedMC Network - A Minecraft PvP Network based on PvP (creedmc.rip)
 
 ---
 ### 🥂 Actually Projects:
-- ☕ Coral Services - A development team founded for the community (coral.services)
+- ⚔ NativeMC Network - A Minecraft PvP Network based on PvP Community (nativemc.org)
