@@ -20,7 +20,7 @@
 ### Contact me:
 - 🐦 Twitter: https://twitter.com/itsgithalt
 - ✈ Telegram: https://t.me/@githalt
-- 📧 Discord: githalt#0517
+- 📧 Discord: githalt#9999
 - 🏷️ Repository: working in a new one
 
 ---
