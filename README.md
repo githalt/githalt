@@ -17,7 +17,7 @@
 </p>
 
 ---
-### Contact me:
+### Contact me if you want in:
 - 🐦 Twitter: https://twitter.com/itsgithalt
 - ✈ Telegram: https://t.me/@githalt
 - 📧 Discord: githalt#9999
