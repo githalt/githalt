@@ -31,8 +31,9 @@
 ---
 ### 📚 Recently worked projects:
 - ⚔ Asteroid Network - A Minecraft PvP Network based on HCF (asteroid.rip)
-- ⚔ CreedMC Network - A Minecraft PvP Network based on PvP (creedmc.rip)
+- ⚔ NativeMC Network - A Minecraft PvP Network based on PvP Community (nativemc.org)
 
 ---
 ### 🥂 Actually Projects:
-- ⚔ NativeMC Network - A Minecraft PvP Network based on PvP Community (nativemc.org)
+- ⚔ CreedMC Network - A Minecraft PvP Network based on PvP (creedmc.rip)
+- ⚔ Aureal Network - A Minecraft PvP Network based on PvP (aureal.rip)
