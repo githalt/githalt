@@ -29,10 +29,12 @@
 ![githalt's github stats](https://github-readme-stats.vercel.app/api?username=githalt&count_private=true&show_icons=true&title_color=b118c9&icon_color=ff59ee&text_color=a0a0a0&bg_color=151515&hide=["stars"])
 
 ---
-### 📚 Recently worked projects:
+### 📚 History worked projects:
 - ⚔ Asteroid Network - A Minecraft PvP Network based on HCF (asteroid.rip)
 - ⚔ NativeMC Network - A Minecraft PvP Network based on PvP Community (nativemc.org)
 - ⚔ CreedMC Network - A Minecraft PvP Network based on PvP (creedmc.rip)
+- ⚔ Cougar Network - A Minecraft HCF Network based on PvP (cougar.rip)
+- ⚔ CynicHCF Network - A Minecraft HCF Network based on HCF Servers (cynichcf.com - selled plugins)
 
 ---
 ### 🥂 Actually Projects:
