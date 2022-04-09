@@ -35,7 +35,8 @@
 - ⚔ CreedMC Network - A Minecraft PvP Network based on PvP (creedmc.rip)
 - ⚔ Cougar Network - A Minecraft HCF Network based on PvP (cougar.rip)
 - ⚔ CynicHCF Network - A Minecraft HCF Network based on HCF Servers (cynichcf.com - selled plugins)
+- ⚔ Aureal Network - A Minecraft PvP Network based on PvP (aureal.rip)
 
 ---
 ### 🥂 Actually Projects:
-- ⚔ Aureal Network - A Minecraft PvP Network based on PvP (aureal.rip)
+- ⚔ AngelPvP Network - A Minecraft PvP Network based on HCF & PvP (angelpvp.club)
