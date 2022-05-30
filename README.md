@@ -35,7 +35,7 @@
 - ⚔ NativeMC Network - A Minecraft PvP Network based on PvP Community (nativemc.org - Developer)
 - ⚔ CreedMC Network - A Minecraft PvP Network based on PvP (creedmc.rip - Developer)
 - ⚔ Cougar Network - A Minecraft HCF Network based on PvP (cougar.rip - Developer)
-- ⚔ CynicHCF Network - A Minecraft HCF Network based on HCF Servers (cynichcf.com - selled plugins)
+- ⚔ CynicHCF Network - A Minecraft HCF Network based on HCF Servers (cynichcf.com - selt plugins)
 - ⚔ Azazel Network - A Minecraft PvP Network based on HCF & PvP (azazel.cc - Developer)
 - ⚔ Aureal Network - A Minecraft PvP Network based on PvP (aureal.rip - Developer)
 - ⚔ AngelPvP Network - A Minecraft PvP Network based on HCF & PvP (angelpvp.club - Owner)
