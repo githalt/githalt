@@ -20,7 +20,7 @@
 
 ---
 ### Contact me if you want in:
-- 🐦 Twitter: https://twitter.com/itsgithalt
+- 🐦 Twitter: https://twitter.com/githaltwastaken
 - ✈ Telegram: https://t.me/@githalt
 - 📧 Discord: githalt#1815
 - 🏷️ Repository: working in a new one
